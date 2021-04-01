@@ -112,6 +112,37 @@
       "contato": "(11) 99999-9999",
       "vacinado": true,
       "servicos": []
+    },
+    {
+      "vacinado": false,
+      "servicos": []
+    },
+    {
+      "vacinado": false,
+      "servicos": []
+    },
+    {
+      "vacinado": false,
+      "servicos": []
+    },
+    {
+      "vacinado": false,
+      "servicos": []
+    },
+    {
+      "vacinado": false,
+      "servicos": []
+    },
+    {
+      "nome": "Lion",
+      "tipo": "gato",
+      "idade": 5,
+      "raca": "Vira-lata",
+      "peso": 3,
+      "tutor": "Bruxa do 71",
+      "contato": "(11) 97171-7171",
+      "vacinado": false,
+      "servicos": []
     }
   ]
 }

@@ -53,7 +53,7 @@ const petshop = {
             bancoDados.pets.push(novoPet);
         })
     
-        atualizarBanco();
+        petshop.atualizarBanco();
         novosPets.forEach((pet) => {
             console.log(`${pet.nome} foi adicionado com sucesso!`);
         })
